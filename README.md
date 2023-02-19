@@ -29,3 +29,7 @@ CLI for testing controller rumble quickly with SDL2 + [community mappings](https
 - Pop_OS! 22.04 - 8BitDo Pro2 - DirectInput - no - That operation is not supported
 - Pop_OS! 22.04 - 8BitDo Pro2 - Apple/DS4 - not detected
 - Pop_OS! 22.04 - 8BitDo Pro2 - Switch Pro - not detected
+
+## Windows
+
+See this gist: https://gist.github.com/brettchalupa/758a6f98e2b6285dec8fa6568715ce67
