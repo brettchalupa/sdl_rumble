@@ -33,3 +33,13 @@ CLI for testing controller rumble quickly with SDL2 + [community mappings](https
 ## Windows
 
 See this gist: https://gist.github.com/brettchalupa/758a6f98e2b6285dec8fa6568715ce67
+
+### Findings
+
+- Windows 10 - Xbox One Controller - XInput - yes!
+- Windows 10 - DualShock 4 - yes, with hint
+- Windows 10 - 8BitDo Pro2 - XInput - yes!
+- Windows 10 - 8BitDo Pro2 - DirectInput - no - That operation is not supported
+- Windows 10 - 8BitDo Pro2 - Apple/DS4 - yes!
+- Windows 10 - 8BitDo Pro2 - Switch Pro - faint and inconsistent
+
