@@ -4,6 +4,7 @@
 
 int main(void)
 {
+	SDL_SetHint(SDL_HINT_JOYSTICK_HIDAPI_PS4_RUMBLE, "1");
 	SDL_Init(SDL_INIT_JOYSTICK);
 
 	printf("testing rumble for connected controllers\n");
